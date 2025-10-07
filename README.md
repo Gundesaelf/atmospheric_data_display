@@ -2,6 +2,8 @@
 
 A MicroPython project that reads temperature, pressure, and humidity from a BME280 sensor and displays it on an SSD1306 OLED screen in real-time.
 
+![Display Output](images/output.png)
+
 ---
 
 ## Features
